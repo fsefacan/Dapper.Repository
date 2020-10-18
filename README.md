@@ -1,5 +1,5 @@
 # Dapper.Repository
-Dapper Sql Query Generater with Repository Design Pattern
+Dapper Sql Query Generator with Repository Design Pattern
 
 No major changes will be made except for the existing features.
 
